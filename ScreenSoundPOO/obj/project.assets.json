@@ -8,24 +8,32 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/lucassena/.nuget/packages/": {}
+    "C:\\Users\\cruzl\\.nuget\\packages\\": {},
+    "E:\\visual studio sdk\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lucassena/Github/ScreenSoundC-/ScreenSoundPOO/ScreenSoundPOO.csproj",
+      "projectUniqueName": "C:\\Github\\ScreenSoundC-\\ScreenSoundPOO\\ScreenSoundPOO.csproj",
       "projectName": "ScreenSoundPOO",
-      "projectPath": "/Users/lucassena/Github/ScreenSoundC-/ScreenSoundPOO/ScreenSoundPOO.csproj",
-      "packagesPath": "/Users/lucassena/.nuget/packages/",
-      "outputPath": "/Users/lucassena/Github/ScreenSoundC-/ScreenSoundPOO/obj/",
+      "projectPath": "C:\\Github\\ScreenSoundC-\\ScreenSoundPOO\\ScreenSoundPOO.csproj",
+      "packagesPath": "C:\\Users\\cruzl\\.nuget\\packages\\",
+      "outputPath": "C:\\Github\\ScreenSoundC-\\ScreenSoundPOO\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\visual studio sdk\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/lucassena/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\cruzl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
